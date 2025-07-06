@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MarkItDown</string>
+    <string name="or">OR</string>
+    <string name="open_file">Open File</string>
+    <string name="enter_markdown_url">Enter Markdown URL</string>
+    <string name="upload_from_url">Upload from URL</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+</resources>
