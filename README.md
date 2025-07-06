@@ -4,5 +4,5 @@
 1) Upload file from URL or select one on your mobile device. 
 2) View the file instantly 
 3) Edit the file in a heartbeat 
-  * You are ready to go! *
+*You are ready to go!*
     
